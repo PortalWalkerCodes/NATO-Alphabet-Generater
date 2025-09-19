@@ -25,6 +25,3 @@ while program_is_running:
         program_is_running = False
     else:
         clear_screen()
-
-#TODO 2. Create a list of the phonetic code words from a word that the user inputs.
-
